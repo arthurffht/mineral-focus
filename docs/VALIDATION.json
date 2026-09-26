@@ -1,0 +1,22 @@
+{
+  "themes/Mineral-Focus.ron": {
+    "variant_wrapper": true,
+    "balanced_parentheses": true,
+    "required_fields": true,
+    "rgba_colors": true,
+    "alpha_map_14": true,
+    "alpha_range": true,
+    "gaps_default": true,
+    "active_hint_default": true
+  },
+  "themes/Mineral-Focus-Light.ron": {
+    "variant_wrapper": true,
+    "balanced_parentheses": true,
+    "required_fields": true,
+    "rgba_colors": true,
+    "alpha_map_14": true,
+    "alpha_range": true,
+    "gaps_default": true,
+    "active_hint_default": true
+  }
+}

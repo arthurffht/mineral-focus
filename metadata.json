@@ -1,0 +1,29 @@
+{
+  "name": "Mineral Focus",
+  "version": "1.0.0",
+  "release_date": "2026-09-26",
+  "creator": "Arthur",
+  "maintainer": "Arthur",
+  "license": "MIT",
+  "project_type": "COSMIC theme family",
+  "independent_community_project": true,
+  "target": {
+    "cosmic_epoch": "1.9.x",
+    "theme_builder": 2,
+    "checked_on": "2026-09-26"
+  },
+  "themes": [
+    {
+      "name": "Mineral Focus",
+      "mode": "dark",
+      "file": "themes/Mineral-Focus.ron",
+      "primary": true
+    },
+    {
+      "name": "Mineral Focus Light",
+      "mode": "light",
+      "file": "themes/Mineral-Focus-Light.ron",
+      "primary": false
+    }
+  ]
+}
